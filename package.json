@@ -1,8 +1,8 @@
 {
-  "homepage": "https://nrrf.github.io/presentation-template",
   "name": "reveal.js",
   "version": "4.3.1",
   "description": "The HTML Presentation Framework",
+  "homepage": "https://revealjs.com",
   "subdomain": "revealjs",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
@@ -10,9 +10,7 @@
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "gulp build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "gulp build"
   },
   "author": {
     "name": "Hakim El Hattab",

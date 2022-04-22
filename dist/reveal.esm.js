@@ -1,6 +1,6 @@
 /*!
 * reveal.js 4.3.1
-* https://revealjs.com
+* https://nrrf.github.io/presentation-template
 * MIT licensed
 *
 * Copyright (C) 2011-2022 Hakim El Hattab, https://hakim.se
